@@ -1,0 +1,55 @@
+ => Current directory=C:\Users\Tvs\cs3212\Assignment4
+ => Full pathname=C:\Users\Tvs\cs3212\Assignment4/display.props
+ => Properties file contains 46 properties
+problemValueType=min
+scale5=F0
+scale4=F0
+specialTest=false
+scale3=F0
+scale2=F0
+scale1=F0
+scale0=F0
+runsPerTest=2
+displayTime=true
+param1_testSize4=2500
+alg1=MyAlgorithm
+param1_testSize3=2000
+alg0=CircleAlgorithm
+testPerformance=false
+param1_testSize2=1500
+param1_testSize1=1000
+param1_testSize0=500
+A5=1.0
+A4=1.0
+A3=1.0
+numTests=3
+A2=1.0
+A1=1.0
+A0=1.0
+graphDisplayTester.density=0.7
+maxExecTimeSeconds=3
+numAlgorithms=2
+debug=On
+display=true
+graphDisplayTester.testLarge=false
+limitExecTime=false
+graphDisplayTester.discrete=false
+printToScreen=true
+printSummary=true
+param0_testSize4=2500
+param0_testSize3=2000
+param0_testSize2=1500
+param0_testSize1=1000
+param0_testSize0=500
+quiescentTime=1
+dictionary=/usr/dict/words
+testCorrectness=true
+numProblemParameters=1
+graphDisplayTester.scaleFactor=10
+problemType=graphDisplay
+Loading algorithm# 0 name=C:\Users\Tvs\cs3212\Assignment4/CircleAlgorithm ... 
+ ... completed.
+Loading algorithm# 1 name=C:\Users\Tvs\cs3212\Assignment4/MyAlgorithm ... 
+ ... completed.
+ALGORITHM: Tharun Saravanan's Implementation of CircleAlgorithm
+ALGORITHM: Tharun Saravanan's Implementation of MyAlgorithm

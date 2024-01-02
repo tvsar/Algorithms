@@ -1,0 +1,76 @@
+ => Current directory=C:\Users\Tvs\cs3212\Assignment2Part2
+ => Full pathname=C:\Users\Tvs\cs3212\Assignment2Part2/a2.props
+ => Properties file contains 46 properties
+scale8=F0
+closestPairTester.testLarge=true
+scale7=F0
+scale6=F0
+problemValueType=min
+scale5=F0
+scale4=F0
+specialTest=true
+scale3=F0
+scale2=F0
+scale1=F0
+scale0=F0
+runsPerTest=1
+displayTime=true
+alg2=DivideAndConquer
+alg1=Grid
+alg0=NaiveClosestPair
+A8=1.0
+testPerformance=true
+A7=1.0
+A6=1.0
+A5=1.0
+A4=1.0
+A3=1.0
+numTests=5
+A2=1.0
+closestPairTester.regionSize=10000
+A1=1.0
+A0=1.0
+maxExecTimeSeconds=3
+numAlgorithms=3
+debug=On
+display=true
+limitExecTime=false
+printToScreen=true
+printSummary=true
+param0_testSize4=9000
+param0_testSize3=7000
+param0_testSize2=5000
+param0_testSize1=3000
+param0_testSize0=1000
+quiescentTime=0
+dictionary=/usr/dict/words
+testCorrectness=true
+numProblemParameters=1
+problemType=closestPair
+Loading algorithm# 0 name=C:\Users\Tvs\cs3212\Assignment2Part2/NaiveClosestPair ... 
+ ... completed.
+Loading algorithm# 1 name=C:\Users\Tvs\cs3212\Assignment2Part2/Grid ... 
+ ... completed.
+Loading algorithm# 2 name=C:\Users\Tvs\cs3212\Assignment2Part2/DivideAndConquer ... 
+ ... completed.
+ALGORITHM: Tharun Saravanan's Implementation of NaiveClosestPair
+ => passed: Test 1: 2 points
+ => passed: Test 2: 3 points
+ => passed: Test 3: 6 points
+ => passed: Test 4: 13 points
+ => passed: Test 5: 10 random pointsets with 10 points
+ => passed: Test 6: 50 random pointsets with 100 points
+ALGORITHM: Tharun Saravanan's Implementation of Grid
+ => passed: Test 1: 2 points
+ => passed: Test 2: 3 points
+ => passed: Test 3: 6 points
+ => passed: Test 4: 13 points
+ => passed: Test 5: 10 random pointsets with 10 points
+ => passed: Test 6: 50 random pointsets with 100 points
+ALGORITHM: Tharun Saravanan's Implementation of DivideAndConquer
+ => passed: Test 1: 2 points
+ => passed: Test 2: 3 points
+ => passed: Test 3: 6 points
+ => passed: Test 4: 13 points
+ClosestPair: FAILED: Test 5: #5 of 10 random pointsets with 10 points
+Test 5: #5 of 10 random pointsets with 10 points
